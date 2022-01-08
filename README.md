@@ -1,8 +1,5 @@
 - 👋 Hi, I’m @KennedyKenei
-- 👀 I’m interested in technology. It is a passion that i love and persue everyday with great joy.
-- 🌱 I’m currently learning machine learning from Udacity and Android development from Andela.
-- 💞️ I’m looking to collaborate on remote projects that are technical but organized.
-- 📫 How to reach me on email at kennedykenei@gmail.com
+
 
 
 <!---
